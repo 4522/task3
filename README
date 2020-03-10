@@ -1,0 +1,4 @@
+from current folder run python manage.py runserver
+In brawser go to http://127.0.0.1:8000/admin/ (username: test, password: testuser)
+open 127.0.0.0:8000
+start brasing app
